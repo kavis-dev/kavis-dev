@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kavis-dev/kavis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Kavis
 
-Here are some ideas to get you started:
+國一學生，正在學習 C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Blog](https://blog.kavis.dev) · [Discord](https://discord.gg/FRkzuZnF) · [Instagram](https://instagram.com/kavislgc) · [Email](mailto:me@kavis.dev)
+
+</div>
+
+---
+
+## About
+
+- 目前學習：C++、Git
+- 網站：[blog.kavis.dev](https://blog.kavis.dev)
+
+---
+
+## Skills
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
